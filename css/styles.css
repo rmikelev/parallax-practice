@@ -1,3 +1,7 @@
+body {
+    width:1020px;
+}
+
 #parallax_one {
     background-image: url('/images/greatwall2119.jpg');
     height: 500px;
@@ -8,8 +12,7 @@
 }
 
 .parallax_wrapper {
-    height: 500px;
-    background-color: lightblue;
+    background-color: rgba(173, 216, 230, 0.263);
     width: 800px;
     height: 360px;
     border-radius: 25px;
@@ -19,7 +22,7 @@
 .parallax_effect {
     background-repeat:no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center;
     background-attachment: fixed;
     
 }

@@ -32,11 +32,14 @@ body {
 }
 
 .parallax_wrapper {
-    background-color: rgba(173, 216, 230, 0.263);
-    width: 800px;
-    height: 360px;
+    background-color: rgba(173, 216, 230, 0.256);
+    color:white;
+    font-weight:bold;
+    width: 500px;
+    height: 260px;
     border-radius: 25px;
-    margin: 6rem auto;
+    padding-top: 6rem;
+    margin: 6rem;
 }
 
 .parallax_effect {

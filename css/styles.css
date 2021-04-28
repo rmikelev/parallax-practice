@@ -2,6 +2,11 @@ body {
     width:1020px;
 }
 
+.begn {
+    background-image: url("/images/abbienewcar26679-4\ copy.jpg");
+    background-repeat:no-repeat;
+    
+}
 #parallax_one {
     background-image: url("/images/greatwall2119.jpg");
 

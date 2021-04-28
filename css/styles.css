@@ -6,6 +6,7 @@
     background-image: url("/images/abbienewcar26679web.jpg");
     background-repeat:no-repeat;
     height: 600px;
+
     
 }
 #parallax_one {
@@ -38,7 +39,7 @@
 
 .parallax_wrapper {
     background-color: rgba(173, 216, 230, 0.256);
-    color:white;
+    color:red;
     font-weight:bold;
     width: 500px;
     height: 260px;

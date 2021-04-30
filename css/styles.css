@@ -1,4 +1,7 @@
-
+#parallax-main{
+    background-image: url("/images/abbienewcar26679web.jpg");
+    background-position: center;
+}
 
 #parallax-main > nav button {
     padding: .5rem;

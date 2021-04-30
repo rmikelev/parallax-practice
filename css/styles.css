@@ -1,15 +1,13 @@
-#parallax-main {
-    background-image: url("/images/abbienewcar26679web.jpg");
-    background-position:center;
-}
+
 
 #parallax-main > nav button {
     padding: .5rem;
     background-color: rgba(255, 255, 255, 0.5);
 }
-.begn {
+.begn{
     background-image: url("/images/abbienewcar26679web.jpg");
     background-repeat:no-repeat;
+    background-position: center;
     height: 600px;
 
     
